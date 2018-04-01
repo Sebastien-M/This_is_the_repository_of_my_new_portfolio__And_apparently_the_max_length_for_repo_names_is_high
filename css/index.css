@@ -1,0 +1,55 @@
+.sidenav .collapsible-body>ul:not(.collapsible)>li.active,
+.sidenav.sidenav-fixed .collapsible-body>ul:not(.collapsible)>li.active {
+    background-color: transparent;
+}
+
+.tabs .tab a:focus,
+.tabs .tab a:focus.active {
+    background-color: transparent;
+}
+
+.tabs .indicator {
+    background-color: black;
+}
+
+#presentation {
+    margin-top: 100px;
+}
+
+#competences {
+    margin-top: 100px;
+}
+
+#competences>h3 {
+    text-decoration: underline;
+}
+
+#projets {
+    margin-top: 100px;
+}
+
+.projet {
+    height: 400px;
+}
+
+#pluuus {
+    margin-top: 20px;
+}
+
+.git>.fa-github {
+    /* padding-top: 4px; */
+    padding: 4px 0 0 10px;
+}
+
+.projetnd {
+    margin-top: 20px;
+}
+
+#contact {
+    margin-top: 100px;
+    font-size: 1.5em;
+}
+
+.contact_button>svg {
+    padding-top: 10px;
+}
