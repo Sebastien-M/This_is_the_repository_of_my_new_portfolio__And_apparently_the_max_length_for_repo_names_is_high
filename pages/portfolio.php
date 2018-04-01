@@ -4,7 +4,7 @@
 
         <div class="card col s12 m5 projet">
             <div class="card-image waves-effect waves-block waves-light">
-                <img class="activator" src="img/rpg1.jpg">
+                <img class="activator" src="img/rpg1.JPG">
             </div>
                 <div class="card-content">
                 <span class="card-title activator grey-text text-darken-4">RPG1<i class="material-icons right">more_vert</i></span>
@@ -18,7 +18,7 @@
 
         <div class="card col s12 m5 offset-m2 projet">
             <div class="card-image waves-effect waves-block waves-light">
-                <img class="activator" src="img/garbage_bot.jpg">
+                <img class="activator" src="img/garbage_bot.JPG">
             </div>
                 <div class="card-content">
                 <span class="card-title activator grey-text text-darken-4">Garbage Robot<i class="material-icons right">more_vert</i></span>
@@ -32,7 +32,7 @@
 
         <div class="card col s12 m5 projet projetnd">
             <div class="card-image waves-effect waves-block waves-light">
-                <img class="activator" src="img/tuesday.jpg">
+                <img class="activator" src="img/tuesday.JPG">
             </div>
                 <div class="card-content">
                 <span class="card-title activator grey-text text-darken-4">Is It Tuesday?<i class="material-icons right">more_vert</i></span>
@@ -46,7 +46,7 @@
 
         <div class="card col s12 m5 offset-m2 projet projetnd">
             <div class="card-image waves-effect waves-block waves-light">
-                <img class="activator" src="img/chat.jpg">
+                <img class="activator" src="img/chat.JPG">
             </div>
                 <div class="card-content">
                 <span class="card-title activator grey-text text-darken-4">Chat<i class="material-icons right">more_vert</i></span>
