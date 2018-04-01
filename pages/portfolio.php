@@ -36,7 +36,7 @@
             </div>
                 <div class="card-content">
                 <span class="card-title activator grey-text text-darken-4">Is It Tuesday?<i class="material-icons right">more_vert</i></span>
-                <p><a href="#">Lien vers le projet</a></p>
+                <p><a href="http://sebastienmandaba.com/is_it_tuestay/">Lien vers le projet</a></p>
             </div>
             <div class="card-reveal">
                 <span class="card-title grey-text text-darken-4">Is It Tuesday?<i class="material-icons right">close</i></span>
