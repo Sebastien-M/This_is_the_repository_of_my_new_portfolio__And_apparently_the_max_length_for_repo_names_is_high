@@ -26,7 +26,7 @@
             </div>
             <div class="card-reveal">
                 <span class="card-title grey-text text-darken-4">Garbage Robot<i class="material-icons right">close</i></span>
-                <p>Le robot répondant au doux nom de Garbage Robot est un robot assemblé par mes soins. Fonctionnant avec un arduino, une Api Node.js lui envoie des requêtes TCP pour le controler. Cette API est ensuite utilisée par un front-end réalisée en HTML et Javascript (ps: ne cassez pas tout chez moi svp)</p>
+                <p>Le robot répondant au doux nom de Garbage Robot est un robot assemblé par mes soins. Fonctionnant avec un arduino, une Api Node.js lui envoie des requêtes TCP pour le controller. Cette API est ensuite utilisée par un front-end réalisée en HTML et Javascript classique (ps: ne cassez pas tout chez moi svp)</p>
             </div>
         </div>
 
